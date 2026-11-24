@@ -1,0 +1,9 @@
+VPS - Sprint 2 v2 (Emissor + Visualizador | ate 128 canais simultaneos)
+=======================================================================
+
+1. Extraia este ZIP em "C:\Users\vsant\Documents\Juce projects\VPS_Sprint2".
+2. Abra "VPS_Sender\VPS_Sender.jucer" no Projucer e aperte Ctrl+S.
+3. Abra "VPS_Visualizer\VPS_Visualizer.jucer" no Projucer e aperte Ctrl+S.
+4. Clique com o botao direito em "atualizar_v145.ps1" -> "Executar com o PowerShell".
+5. Compile "VPS_Sender_VST3" e "VPS_Visualizer_VST3" no Visual Studio.
+6. Copie "VPS_Sender.vst3" e "VPS_Visualizer.vst3" para a pasta de VST3 do Live.

@@ -1,0 +1,15 @@
+﻿Build/
+build/
+x64/
+obj/
+Release/
+Debug/
+_backups/
+*.vst3
+*.ilk
+*.pdb
+*.obj
+*.log
+
+.vs/
+**/.vs/
